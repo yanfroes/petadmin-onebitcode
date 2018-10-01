@@ -240,6 +240,7 @@ DEPENDENCIES
   redis
   sass-rails (~> 5.0)
   sidekiq
+  slim
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)
@@ -248,4 +249,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   1.15.3
+   1.16.1
